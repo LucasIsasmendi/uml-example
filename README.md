@@ -60,6 +60,10 @@ An uml approach to explain liquid democracy software.
 
 ## 3. Component
 
+<p align="center">
+<img src="uml/component.png" width="400" title="Use Case Diagram">
+</p>
+
 ## 4. Activity
 
 ### 4.1 Proposals

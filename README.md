@@ -88,3 +88,16 @@ An uml approach to explain liquid democracy software.
 
 
 ### 4.2 Vote Power
+
+#### Delegate
+
+<p align="center">
+<img src="uml/activity/vote-power/delegate.png" width="400" title="Activity Delegate Vote Power Diagram">
+</p>
+
+#### Revoke
+
+<p align="center">
+<img src="uml/activity/vote-power/revoke.png" width="400" title="Activity Delegate Vote Power Diagram">
+</p>
+

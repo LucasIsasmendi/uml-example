@@ -55,13 +55,13 @@ An uml approach to explain liquid democracy software.
 ## 2. Use Case
 
 <p align="center">
-<img src="uml/use-case.png" width="400" title="Use Case Diagram">
+<img src="uml/use-case.png" width="500" title="Use Case Diagram">
 </p>
 
 ## 3. Component
 
 <p align="center">
-<img src="uml/component.png" width="400" title="Component Diagram">
+<img src="uml/component.png" width="600" title="Component Diagram">
 </p>
 
 ## 4. Activity
@@ -71,19 +71,19 @@ An uml approach to explain liquid democracy software.
 #### Create Proposal
 
 <p align="center">
-<img src="uml/activity/proposals/create.png" width="400" title="Activity Create Proposal Diagram">
+<img src="uml/activity/proposals/create.png" width="600" title="Activity Create Proposal Diagram">
 </p>
 
 #### Vote Proposal
 
 <p align="center">
-<img src="uml/activity/proposals/vote.png" width="400" title="Activity Vote Proposal Diagram">
+<img src="uml/activity/proposals/vote.png" width="450" title="Activity Vote Proposal Diagram">
 </p>
 
 #### Unvote Proposal
 
 <p align="center">
-<img src="uml/activity/proposals/unvote.png" width="400" title="Activity Unvote Proposal Diagram">
+<img src="uml/activity/proposals/unvote.png" width="350" title="Activity Unvote Proposal Diagram">
 </p>
 
 
@@ -92,12 +92,12 @@ An uml approach to explain liquid democracy software.
 #### Delegate
 
 <p align="center">
-<img src="uml/activity/vote-power/delegate.png" width="400" title="Activity Delegate Vote Power Diagram">
+<img src="uml/activity/vote-power/delegate.png" width="450" title="Activity Delegate Vote Power Diagram">
 </p>
 
 #### Revoke
 
 <p align="center">
-<img src="uml/activity/vote-power/revoke.png" width="400" title="Activity Delegate Vote Power Diagram">
+<img src="uml/activity/vote-power/revoke.png" width="350" title="Activity Delegate Vote Power Diagram">
 </p>
 

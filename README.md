@@ -61,11 +61,30 @@ An uml approach to explain liquid democracy software.
 ## 3. Component
 
 <p align="center">
-<img src="uml/component.png" width="400" title="Use Case Diagram">
+<img src="uml/component.png" width="400" title="Component Diagram">
 </p>
 
 ## 4. Activity
 
 ### 4.1 Proposals
+
+#### Create Proposal
+
+<p align="center">
+<img src="uml/activity/proposals/create.png" width="400" title="Activity Create Proposal Diagram">
+</p>
+
+#### Vote Proposal
+
+<p align="center">
+<img src="uml/activity/proposals/vote.png" width="400" title="Activity Vote Proposal Diagram">
+</p>
+
+#### Unvote Proposal
+
+<p align="center">
+<img src="uml/activity/proposals/unvote.png" width="400" title="Activity Unvote Proposal Diagram">
+</p>
+
 
 ### 4.2 Vote Power

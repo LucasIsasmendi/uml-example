@@ -52,6 +52,21 @@ An uml approach to explain liquid democracy software.
 | 18   | As a user, I can create a scope and link it to a scope type | 
 | 19   | As a user, I want to be able to join and leave a scope      | 
 
+### Glosary
+| Term           | Meaning                                                                                                                                      | 
+|----------------|----------------------------------------------------------------------------------------------------------------------------------------------| 
+| guest          | a person who uses or operates the app in anonymous mode                                                                                      | 
+| user           | a person who uses or operates the app and has been registered                                                                                | 
+| delegate       | a user who receives token votes from other user                                                                                              | 
+| statement      | a text that describe an opinion or an idea, it is not votable, it can contain hashtags                                                       | 
+| proposal       | a text that describe an idea or makes a statement that is votable, it can contain hashtags                                                   | 
+| hashtag        | short identifier of kind of content in the proposal, could be more than one, starts with hashtag (# character)                               | 
+| proposal scope | short identifier to assign a proposal or set of proposals to a region, group or entity. Only one scope per proposal. Starts with ~ character | 
+| $vote (noun)   | a token used to signal choices and that can be allocated on proposals and transfered to a user that become a delegate                        | 
+| vote (verb)    | when a user chooses to allocate a number of tokens to a choice on a determinated proposal                                                    | 
+| unvote         | when a user chooses to withdraw its token on a proposal                                                                                      | 
+| delegation     | when a user chooses to send tokens to a another user which becomes a delegate                                                                | 
+| revoke         | when a user chooses to retrieve the tokens he previously sent to its delegate                                                                | 
 ## 2. Use Case
 
 <p align="center">
